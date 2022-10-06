@@ -1,5 +1,5 @@
 ### Hi there 👋
-2022 10/3
+2022 10/6
 **DAEUN9/DAEUN9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
